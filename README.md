@@ -1,4 +1,16 @@
-# Training - Javascript Functions
+# Ryan Johnson
+## _Training - Javascript functions_
+
+### What is this?
+This is the completed version of <a href="https://github.com/sf-wdi-34/functions-training">this assignment</a> that was prepared by Ryan Johnson.
+
+### Reflection on this assignment
+I completed all assignments without too much trouble, though two of them were particularly tricky.  The Vowel Count function stumped me initially, though I was able to complete it after getting a tip from my classmate Michael about how I could use indexOf() to get the right answer.  The Stretch Challenge was also quite difficult, though it became easier after I typed out the solution manually to figure out what the correct spacing of the asterisks should be.  I completed the assignment in class after a bit of tinkering.  Interestingly, I used Javascript to insert the pyramid into <a href="https://johnson-rl.github.io/">my webpage</a> but struggled because html ignored the spaces before the asterisks.  That evening, TA gave me a hint about how this could be fixed, though I think it involved concepts we haven't learned yet.  For now, I used CSS to workaround this problem.
+
+
+
+
+<!-- # Training - Javascript Functions
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer. Write the functions assigned below in the file `functions.js`. Use snippets to run and observe the results of your code.
 
@@ -220,4 +232,4 @@ printTriangle(3);
 function printPyramid(length) {
 	// TODO: Place your code here
 }
-```
+``` -->
